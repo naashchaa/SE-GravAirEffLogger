@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravityEfficiencyLogger", "GravityEfficiencyLogger.csproj", "{495A7AE8-4050-494B-97C1-782C900A4280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{495A7AE8-4050-494B-97C1-782C900A4280}.Debug|x64.ActiveCfg = Debug|x64
+		{495A7AE8-4050-494B-97C1-782C900A4280}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFC1A002-7846-4FC9-902B-F000E0098B93}
+	EndGlobalSection
+EndGlobal
